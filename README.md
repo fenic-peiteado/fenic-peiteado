@@ -1,5 +1,9 @@
 ### Hello 👋
 ### I am Jose Fenic Peiteado Padilla Welcome to my github
+#Práctica de Laboratorio #3. Reorganización de ramas con Git. Gestores de intérpretes de Ruby. 
+* Jose Fenic Peiteado padilla
+* **alu0101227023**
+~                   
 <!--
 **fenic-peiteado/fenic-peiteado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
